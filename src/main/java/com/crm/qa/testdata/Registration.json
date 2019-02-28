@@ -1,0 +1,55 @@
+{
+
+
+  "ScenarioTest1":
+  [
+    {
+        "FirstNameinfo":"Harish",
+        "LastNameinfo":"Palaparthy",
+        "Phoneinfo": "1234554321",
+        "Emailinfo": "harish@gmail.com"
+    },
+    {
+      "FirstNameinfo":"Siri",
+        "LastNameinfo":"Palaparthy",
+        "Phoneinfo": "5432112345",
+        "Emailinfo": "siri@gmail.com"
+
+
+    },
+    {
+      "FirstNameinfo":"Sarayu",
+        "LastNameinfo":"Palaparthy",
+        "Phoneinfo": "6789009876",
+        "Emailinfo": "sarayu@gmail.com"
+    }
+  ],
+
+  "ScenarioTest2":
+  [
+    {
+      "FirstNameinfo":"Rahul",
+        "LastNameinfo":"Palaparthy",
+        "Phoneinfo": "6789009876",
+        "Emailinfo": "sarayu@gmail.com"
+    },
+    {
+     "FirstNameinfo":"Bunty",
+        "LastNameinfo":"Palaparthy",
+        "Phoneinfo": "6789009876",
+        "Emailinfo": "sarayu@gmail.com"
+    }
+  ],
+  
+  
+"ScenarioTest3":
+  [
+    {
+      "FirstNameinfo":"Sourav",
+        "LastNameinfo":"Palaparthy",
+        "Phoneinfo": "6789009876",
+        "Emailinfo": "sarayu@gmail.com"
+    }
+  ]
+
+}

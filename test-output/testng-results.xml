@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="10" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32796" started-at="2019-02-28T04:09:24Z" finished-at="2019-02-28T04:09:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32796" started-at="2019-02-28T04:09:24Z" finished-at="2019-02-28T04:09:57Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="4327" started-at="2019-02-27T23:09:24Z" finished-at="2019-02-27T23:09:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setcontactJson(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setcontactJson" duration-ms="809" started-at="2019-02-27T23:09:28Z" data-provider="jsonRead" finished-at="2019-02-27T23:09:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harish]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Palaparthy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1234554321]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[harish@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setcontactJson -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="585" started-at="2019-02-27T23:09:29Z" finished-at="2019-02-27T23:09:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="3987" started-at="2019-02-27T23:09:30Z" finished-at="2019-02-27T23:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setcontactJson(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setcontactJson" duration-ms="956" started-at="2019-02-27T23:09:34Z" data-provider="jsonRead" finished-at="2019-02-27T23:09:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Siri]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Palaparthy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5432112345]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[siri@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setcontactJson -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="576" started-at="2019-02-27T23:09:35Z" finished-at="2019-02-27T23:09:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="3927" started-at="2019-02-27T23:09:35Z" finished-at="2019-02-27T23:09:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setcontactJson(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:4, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setcontactJson" duration-ms="819" started-at="2019-02-27T23:09:39Z" data-provider="jsonRead" finished-at="2019-02-27T23:09:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sarayu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Palaparthy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6789009876]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sarayu@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setcontactJson -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="586" started-at="2019-02-27T23:09:40Z" finished-at="2019-02-27T23:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="4124" started-at="2019-02-27T23:09:40Z" finished-at="2019-02-27T23:09:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setRegistrationE2EJson(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setRegistrationE2EJson" duration-ms="777" started-at="2019-02-27T23:09:45Z" data-provider="JsonE2E" finished-at="2019-02-27T23:09:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rahul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Palaparthy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6789009876]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sarayu@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setRegistrationE2EJson -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="574" started-at="2019-02-27T23:09:45Z" finished-at="2019-02-27T23:09:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="4008" started-at="2019-02-27T23:09:46Z" finished-at="2019-02-27T23:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setRegistrationE2EJson(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setRegistrationE2EJson" duration-ms="791" started-at="2019-02-27T23:09:50Z" data-provider="JsonE2E" finished-at="2019-02-27T23:09:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bunty]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Palaparthy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6789009876]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sarayu@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setRegistrationE2EJson -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="577" started-at="2019-02-27T23:09:51Z" finished-at="2019-02-27T23:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setUp" is-config="true" duration-ms="3982" started-at="2019-02-27T23:09:51Z" finished-at="2019-02-27T23:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setRegistrationSingleUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:6, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="setRegistrationSingleUser" duration-ms="772" started-at="2019-02-27T23:09:55Z" data-provider="JsonSingleUser" finished-at="2019-02-27T23:09:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sourav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Palaparthy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6789009876]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sarayu@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setRegistrationSingleUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="577" started-at="2019-02-27T23:09:56Z" finished-at="2019-02-27T23:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
